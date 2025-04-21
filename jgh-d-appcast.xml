@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
-    <title>For unit test only</title>
+    <title>App Update Feed</title>
+
+    <!-- Version 2.0 (iOS) -->
     <item>
       <title>Version 2.0 (iOS)</title>
       <description>Bug fixes and performance improvements.</description>
@@ -10,10 +12,9 @@
         url="https://apps.apple.com/gr/app/jgh-magic-distributor/id6740764845" 
         sparkle:version="2.0" 
         sparkle:os="iOS" />
-      <sparkle:releaseNotes>Bug fixes and performance improvements.</sparkle:releaseNotes>
     </item>
 
-    <!-- Version 2.0 (Play Store) -->
+    <!-- Version 2.0 (Android) -->
     <item>
       <title>Version 2.0 (Android)</title>
       <description>Bug fixes and performance improvements.</description>
@@ -22,7 +23,6 @@
         url="https://play.google.com/store/apps/details?id=com.ispl.jghDistributer&hl=en_IN" 
         sparkle:version="2.0" 
         sparkle:os="android" />
-      <sparkle:releaseNotes>Bug fixes and performance improvements.</sparkle:releaseNotes>
     </item>
 
   </channel>
