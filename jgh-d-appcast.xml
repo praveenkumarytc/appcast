@@ -64,6 +64,7 @@
         url="https://apps.apple.com/gr/app/jgh-magic-distributor/id6740764845" 
         sparkle:version="2.0" 
         sparkle:os="iOS" />
+      <sparkle:releaseNotes>Bug fixes and performance improvements.</sparkle:releaseNotes>
     </item>
 
     <!-- Version 2.0 (Play Store) -->
@@ -75,6 +76,7 @@
         url="https://play.google.com/store/apps/details?id=com.ispl.jghDistributer&hl=en_IN" 
         sparkle:version="2.0" 
         sparkle:os="android" />
+      <sparkle:releaseNotes>Bug fixes and performance improvements.</sparkle:releaseNotes>
     </item>
 
   </channel>
